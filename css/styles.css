@@ -6,16 +6,21 @@
     outline: 0;
     vertical-align: baseline;
     background: transparent;
+
 }
 
-a:visited {
-    color: blue;
-}
 
 body{
     background-image: url(../files/background.jpg);
     height: 100vh;
     background-attachment: fixed;
     background-size: cover;
+    margin: 10px;
 }
 
+.parent{
+
+    position: relative;
+    height: 200vh;
+
+}
