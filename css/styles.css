@@ -1,5 +1,16 @@
+/* Universal */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+
 body{
-    background-image: url(../files/minneapolis.jpg);
+    background-image: url(../files/background.jpg);
     height: 100vh;
     background-attachment: fixed;
     background-size: cover;
