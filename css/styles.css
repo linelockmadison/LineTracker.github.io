@@ -8,9 +8,10 @@
     background: transparent;
 }
 
-a:visited {
-    color: blue;
+html {
+    font-family: 'DM Sans', 'Times New Roman', Times, serif;
 }
+
 
 body{
     background-image: url(../files/background.jpg);
@@ -19,3 +20,12 @@ body{
     background-size: cover;
 }
 
+/*------------------------------- Footer -------------------------------*/
+footer {
+    padding: 1em 0 1em 0;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    background-color: black; /*#18191A*/
+    color: white;
+}
