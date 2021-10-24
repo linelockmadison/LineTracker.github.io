@@ -1,3 +1,8 @@
+a:visited{
+    text-decoration: none; 
+}
+
+
 /* Business Employee Link */
 #business-link {
     color: white;
@@ -13,7 +18,9 @@
     text-align: center;
     font-size: 32px;
     background-image: url(../files/background.jpg);
-    height: 75vh;
+    background-color: rgba(0,0,0,0.7);
+    background-blend-mode: darken;
+    height: 100vh;
     background-attachment: fixed;
     background-size: cover;
     text-align: center;
@@ -34,6 +41,9 @@
     text-align: center;
     font-size: 32px;
     background-image: url(../files/sconnies-blur.jpg);
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    background-blend-mode: darken;
     height: 50vh;
     background-attachment: fixed;
     background-size: cover;
@@ -45,6 +55,9 @@
     text-align: center;
     font-size: 32px;
     background-image: url(../files/wandos-blur.jpg);
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    background-blend-mode: darken;
     height: 50vh;
     background-attachment: fixed;
     background-size: cover;
@@ -56,6 +69,9 @@
     text-align: center;
     font-size: 32px;
     background-image: url(../files/red-zone-blur.jpg);
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    background-blend-mode: darken;
     height: 50vh;
     background-attachment: fixed;
     background-size: cover;
@@ -67,6 +83,9 @@
     text-align: center;
     font-size: 32px;
     background-image: url(../files/jordans-blur.jpg);
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    background-blend-mode: darken;
     height: 50vh;
     background-attachment: fixed;
     background-size: cover;
@@ -78,6 +97,9 @@
     text-align: center;
     font-size: 32px;
     background-image: url(../files/luckys-blur.jpg);
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    background-blend-mode: darken;
     height: 50vh;
     background-attachment: fixed;
     background-size: cover;
