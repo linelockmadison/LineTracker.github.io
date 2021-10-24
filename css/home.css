@@ -35,3 +35,10 @@
     flex-wrap: wrap;
     position: relative;
 }
+
+#business-link {
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 10px;
+}
