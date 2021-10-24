@@ -7,6 +7,8 @@
     vertical-align: baseline;
     background: transparent;
 
+html {
+    font-family: 'DM Sans', 'Times New Roman', 'Times, serif';
 }
 
 
@@ -22,5 +24,13 @@ body{
 
     position: relative;
     height: 200vh;
-
+}
+/*------------------------------- Footer -------------------------------*/
+footer {
+    padding: 1em 0 1em 0;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    background-color: black; /*#18191A*/
+    color: white;
 }
