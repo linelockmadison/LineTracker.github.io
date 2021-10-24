@@ -8,6 +8,9 @@
     background: transparent;
 }
 
+a:visited {
+    color: blue;
+}
 
 body{
     background-image: url(../files/background.jpg);
@@ -15,3 +18,4 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+
