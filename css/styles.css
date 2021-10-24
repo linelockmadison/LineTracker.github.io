@@ -1,0 +1,6 @@
+body{
+    background-image: url(../files/minneapolis.jpg);
+    height: 100vh;
+    background-attachment: fixed;
+    background-size: cover;
+}
