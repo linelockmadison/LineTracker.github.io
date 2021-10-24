@@ -1,10 +1,78 @@
-#title {
+/* Title */
+#intro{
     color: white;
-    font-size: 32px;
-    margin: 0 5% 0 5%;
-    padding: 1em 0 1em 0;
     text-align: center;
-    background: rgba(0,0,0,0.5);
+    font-size: 32px;
+    background-image: url(../files/background.jpg);
+    height: 50vh;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+#intro div {
+    color: white;
+    position: relative;
+    top: 45%;
+    left: 25%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin: 0 25% 0 25%;
+}
+
+/* Sconnies */
+#sconnies {
+    text-align: center;
+    font-size: 32px;
+    background-image: url(../files/sconnies-blur.jpg);
+    height: 50vh;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+/* Wandos */
+#wandos {
+    text-align: center;
+    font-size: 32px;
+    background-image: url(../files/wandos-blur.jpg);
+    height: 50vh;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+/* Red Zone */
+#red-zone {
+    text-align: center;
+    font-size: 32px;
+    background-image: url(../files/red-zone-blur.jpg);
+    height: 50vh;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+/* Jordan's */
+#jordans {
+    text-align: center;
+    font-size: 32px;
+    background-image: url(../files/jordans-blur.jpg);
+    height: 50vh;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+/* Lucky's */
+#luckys {
+    text-align: center;
+    font-size: 32px;
+    background-image: url(../files/luckys-blur.jpg);
+    height: 50vh;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
 }
 
 #container {
@@ -13,28 +81,17 @@
     margin: 0 5% 0 5%;
 }
 
-.flex-white{
+.flex {
     align-items: center;
     justify-content: space-around;
     padding-top: 2.5%;
     padding-bottom: 2.5%;
     display: flex;
-    background: rgba(230, 230, 230, 0.8);
     flex-wrap: wrap;
     position: relative;
 }
 
-.flex-black{
-    color: white;
-    align-items: center;
-    justify-content: space-around;
-    padding-top: 2.5%;
-    padding-bottom: 2.5%;
-    display: flex;
-    background: rgba(0, 0, 0, 0.8);
-    flex-wrap: wrap;
-    position: relative;
-}
+
 
 #business-link {
     color: white;
